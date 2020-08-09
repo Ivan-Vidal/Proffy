@@ -1,0 +1,61 @@
+:root {
+    /*Variaveis em CSS */
+    --color-background: #e3e8e9;
+    --color-primary-lighter: #0f3aaf;
+    --color-primary-light: #0656b1;
+    --color-primary: #09147a;
+    --color-primary-dark: #0914af;
+    --color-primary-darker: #42b3c2;
+    --color-secondary: #f0aa28;
+    --color-secondary-dark: #f57e3a;
+    --color-title-in-primary: #FFFFFF;
+    --color-text-in-primary: #D4C2FF;
+    --color-text-title: #0c3896;
+    --color-text-complement: #9C98A6;
+    --color-text-base: #310a92;
+    --color-line-in-white: #E6E6F0;
+    --color-input-background: #F8F8FC;
+    --color-button-text: #FFFFFF;
+    --color-box-base: #FFFFFF;
+    --color-box-footer: #FAFAFC;
+    --color-small-info: #C1BCCC;
+    font-size: 60%;
+    /* controle das medidas rem */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100vh;
+}
+
+body {
+    background: var(--color-background);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body,
+input,
+button,
+textarea {
+    font: 500 1.6rem Poppins;
+    color: var(--color-text-base);
+}
+
+#container {
+    width: 90vw;
+    max-width: 700px;
+}
+
+@media(min-width:700px) {
+     :root {
+        font-size: 62.5%;
+    }
+}
