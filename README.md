@@ -56,4 +56,4 @@ git clone https://github.com/ivan-vidal/Proffy
 
 ---
 
-Developed with 💜 by Ivan Almeida
+Desenvolvido com 💜 by Ivan Almeida
