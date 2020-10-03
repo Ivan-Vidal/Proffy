@@ -54,6 +54,5 @@ git clone https://github.com/ivan-vidal/Proffy
 
 #### Feito isso, abra seu navegador e vá para `https: // localhost: 5500 /`
 
----
 
-Desenvolvido por Ivan Almeida
+#### Obrigado por chegar até aqui  
