@@ -5,13 +5,13 @@
 ## 🖥 Preview
 
 <p align = "center">
-  <img src = "https://media-exp1.licdn.com/dms/image/C4D22AQHVgwD1Mnjeaw/feedshare-shrink_1280-alternative/0?e=1603929600&v=beta&t=-rgKeU608n9YIGy_1LgqS7u5T9vCp-muAIAnsLCdCSA" width = "700">
+  <img src = "/public/images/img-1.jpeg" width = "400">
 </p>
 <p align = "center">
-  <img src = "https://media-exp1.licdn.com/dms/image/C4D22AQGhyOXZ9yHM9w/feedshare-shrink_1280-alternative/0?e=1603929600&v=beta&t=0WJ1nKtwPpwW9Z44qfXy_XPJGJSeZKs9kt5BC-aOtT8" width = "700">
+  <img src = "/public/images/img-2.jpeg" width = "400">
 </p>
 <p align = "center">
-  <img src = "https://media-exp1.licdn.com/dms/image/C4D22AQGTcdFpOV1R_A/feedshare-shrink_1280-alternative/0?e=1603929600&v=beta&t=A0BfojwOyl-GfMKwz5cfyVZhYiew4Q1pxJSOscXiX0k" width = "700">
+  <img src = "/public/images/img-3.jpeg" width = "400">
 </p>
 
 ---
